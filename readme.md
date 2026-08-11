@@ -1,8 +1,8 @@
 DebuD - your designing buddy
 
-Day: 1
+##Day: 1
 
-What app should able to do?
+##What app should able to do?
 
 - it should able to change the fonts (typos).
 - styles - color, transitions effects.
