@@ -1,15 +1,3 @@
-DebuD - your designing buddy
-
-## Day: 1
-
-## What app should able to do?
-
-- it should able to change the fonts (typos).
-- styles - color, transitions effects.
-- components, what can it be able to bring in the components, diff components and their own properties. 
-- we must always able to go back to the original setup, like undo option must be there.
-- layouts, most ppl stuck here , especially, me , I dare not touch my first layout, since my every other containers are stuck with this, but AI tools like claude easily, work around with those optimizations, for me it takes days or weeks.
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -43,4 +31,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
